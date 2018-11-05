@@ -1,0 +1,80 @@
+body {
+    background-color: #eee;
+}
+
+.form-card {
+    font-size: 0.8rem;
+    color: #444;
+    width: 320px;
+    border: 1px solid #bbb;
+    padding: 10px 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 50px auto;
+    background-color: white;
+}
+
+.form-card form {
+    text-align: left;
+    margin: 20px 0;
+}
+
+.form-card p {
+    margin-top: 20px;
+}
+
+input[type="email"],
+input[type="number"],
+input[type="password"] {
+    height: 30px;
+    border-radius: 3px;
+    border: 1px solid #bbb;
+    width: 100%;
+    margin: 10px 0 30px 0;
+    display: block;
+    font-size: 1rem;
+    padding: 0 8px;
+}
+
+input[type="number"] {
+    margin-bottom: 0;
+}
+
+input[type="submit"] {
+    font-size: 1rem;
+    color: white;
+    width: 100%;
+    padding: 14px;
+    background-color: rgb(42, 131, 219);
+    border-radius: 5px;
+    border-bottom: 1px solid gray;
+}
+
+small {
+    display: block;
+    margin: 5px 0 30px 0;
+}
+
+.disclaimer {
+    line-height: 1.5rem;
+    font-size: 0.7rem;
+    color: #999;
+    padding: 15px 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.footnote {
+    background-color: #eee;
+    margin: -10px -30px -10px -30px;
+    width: auto;
+    padding: 20px;
+    font-size: 0.6rem;
+}
+
+.footnote small {
+    margin: 0;
+    padding: 0;
+}
