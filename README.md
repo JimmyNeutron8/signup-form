@@ -1,2 +1,5 @@
 # signup-form
-A simple signup form based on the Intuit sign up form. Educational purposes only.
+
+http://jimmyneutron8.github.io/signup-form
+
+A clone of the Intuit sign-up form. For educational purposes only.
